@@ -1,0 +1,12 @@
+{ "now" : 1670779891.5,
+  "messages" : 347746,
+  "aircraft" : [
+    {"hex":"3964f8","flight":"TVF8051 ","alt_baro":40000,"alt_geom":38875,"gs":418.4,"ias":235,"tas":456,"mach":0.780,"track":282.1,"track_rate":0.00,"roll":-0.4,"mag_heading":277.9,"baro_rate":0,"geom_rate":0,"squawk":"1000","category":"A3","nav_qnh":1013.6,"nav_altitude_mcp":40000,"nav_heading":279.1,"lat":49.182672,"lon":10.821967,"nic":8,"rc":186,"seen_pos":0.0,"version":2,"nic_baro":1,"nac_p":9,"nac_v":1,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":455,"seen":0.0,"rssi":-6.4},
+    {"hex":"70c0f6","category":"A5","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":816,"seen":41.8,"rssi":-10.4},
+    {"hex":"71c079","flight":"AAR542  ","alt_baro":29150,"alt_geom":27625,"gs":493.9,"ias":292,"tas":446,"mach":0.760,"track":105.0,"track_rate":-0.03,"roll":-0.2,"mag_heading":101.4,"baro_rate":320,"geom_rate":416,"squawk":"7661","emergency":"none","category":"A5","nav_qnh":1013.6,"nav_altitude_mcp":35008,"nav_heading":102.0,"lat":48.702998,"lon":10.849722,"nic":8,"rc":186,"seen_pos":19.5,"version":2,"nic_baro":1,"nac_p":9,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":2651,"seen":1.1,"rssi":-7.6},
+    {"hex":"3965ae","version":0,"sil_type":"unknown","mlat":[],"tisb":[],"messages":184,"seen":174.1,"rssi":-9.4},
+    {"hex":"3c48f1","category":"A3","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":348,"seen":258.7,"rssi":-9.4},
+    {"hex":"3c4dd1","category":"A3","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":2332,"seen":205.7,"rssi":-9.7},
+    {"hex":"4891b3","category":"A3","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":1704,"seen":188.3,"rssi":-9.7}
+  ]
+}

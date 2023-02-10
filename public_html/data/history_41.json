@@ -1,0 +1,7 @@
+{ "now" : 1670785831.8,
+  "messages" : 32774,
+  "aircraft" : [
+    {"hex":"3c70c2","flight":"GEC8472 ","alt_baro":30100,"alt_geom":28650,"gs":530.0,"ias":313,"tas":486,"mach":0.824,"track":137.2,"roll":-1.6,"mag_heading":137.8,"baro_rate":1728,"geom_rate":1728,"squawk":"6436","emergency":"none","category":"A5","nav_qnh":1012.8,"nav_altitude_mcp":32992,"nav_heading":137.8,"lat":48.873276,"lon":10.356445,"nic":8,"rc":186,"seen_pos":0.1,"version":2,"nic_baro":1,"nac_p":9,"nac_v":1,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":1112,"seen":0.0,"rssi":-4.0},
+    {"hex":"46b8a3","alt_baro":37025,"category":"A3","lat":48.528660,"lon":10.234487,"nic":8,"rc":186,"seen_pos":69.7,"version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":58,"seen":6.5,"rssi":-9.6}
+  ]
+}

@@ -1,0 +1,7 @@
+{ "now" : 1670784630.3,
+  "messages" : 757,
+  "aircraft" : [
+    {"hex":"4bb1e5","flight":"THY40E  ","alt_baro":39000,"alt_geom":37875,"gs":506.0,"ias":248,"tas":466,"mach":0.800,"track":122.7,"track_rate":0.03,"roll":0.0,"mag_heading":121.3,"baro_rate":0,"geom_rate":0,"squawk":"6430","emergency":"none","category":"A5","nav_qnh":1012.8,"nav_altitude_mcp":39008,"lat":49.014199,"lon":10.668086,"nic":8,"rc":186,"seen_pos":1.8,"version":2,"nic_baro":1,"nac_p":9,"nac_v":1,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":243,"seen":0.1,"rssi":-4.4},
+    {"hex":"471faa","alt_baro":34000,"alt_geom":32675,"gs":406.2,"ias":261,"tas":442,"mach":0.752,"track":279.2,"track_rate":0.00,"roll":0.0,"mag_heading":275.1,"baro_rate":0,"geom_rate":0,"squawk":"1000","nav_qnh":1012.8,"nav_altitude_mcp":34016,"lat":49.164237,"lon":10.236945,"nic":8,"rc":186,"seen_pos":27.0,"version":2,"nic_baro":1,"nac_p":9,"nac_v":4,"sil":3,"sil_type":"perhour","gva":2,"sda":3,"mlat":[],"tisb":[],"messages":138,"seen":2.0,"rssi":-8.8}
+  ]
+}

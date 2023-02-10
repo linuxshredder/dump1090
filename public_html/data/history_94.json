@@ -1,0 +1,12 @@
+{ "now" : 1670777698.8,
+  "messages" : 269517,
+  "aircraft" : [
+    {"hex":"8990eb","alt_baro":25675,"alt_geom":24350,"gs":485.3,"ias":324,"tas":460,"mach":0.780,"track":136.8,"roll":1.4,"mag_heading":135.9,"baro_rate":1152,"geom_rate":1152,"squawk":"4350","nav_qnh":1012.8,"nav_altitude_mcp":31008,"nav_heading":134.3,"lat":49.038071,"lon":10.125380,"nic":8,"rc":186,"seen_pos":4.7,"version":0,"nic_baro":1,"nac_p":8,"nac_v":2,"sil":2,"sil_type":"unknown","mlat":[],"tisb":[],"messages":97,"seen":2.1,"rssi":-7.2},
+    {"hex":"3c5eee","flight":"EWG34EM ","alt_baro":20475,"alt_geom":19425,"gs":394.4,"ias":289,"tas":374,"mach":0.636,"track":98.6,"track_rate":0.00,"roll":-1.2,"mag_heading":96.2,"baro_rate":2432,"geom_rate":2464,"squawk":"7660","emergency":"none","category":"A3","nav_qnh":1012.8,"nav_altitude_mcp":31008,"lat":48.710353,"lon":10.260797,"nic":8,"rc":186,"seen_pos":3.5,"version":0,"nic_baro":1,"nac_p":8,"nac_v":4,"sil":2,"sil_type":"unknown","mlat":[],"tisb":[],"messages":70,"seen":1.9,"rssi":-6.5},
+    {"hex":"502d28","flight":"SWR68BJ ","alt_baro":33475,"alt_geom":32125,"gs":433.5,"ias":276,"tas":462,"mach":0.784,"track":225.5,"track_rate":0.06,"roll":1.2,"mag_heading":227.3,"baro_rate":-960,"geom_rate":-1024,"squawk":"1000","category":"A3","nav_qnh":1012.8,"nav_altitude_mcp":32000,"nav_altitude_fms":7360,"nav_heading":227.1,"lat":49.226059,"lon":10.368130,"nic":8,"rc":186,"seen_pos":5.2,"version":2,"nic_baro":1,"nac_p":11,"nac_v":1,"sil":3,"sil_type":"perhour","mlat":[],"tisb":[],"messages":592,"seen":2.9,"rssi":-8.4},
+    {"hex":"3c6597","mlat":[],"tisb":[],"messages":11,"seen":141.8,"rssi":-8.7},
+    {"hex":"461f9d","version":0,"mlat":[],"tisb":[],"messages":47,"seen":227.6,"rssi":-8.9},
+    {"hex":"3c6724","category":"A5","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":1741,"seen":142.9,"rssi":-8.4},
+    {"hex":"3c5ef9","category":"A3","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":1966,"seen":214.1,"rssi":-8.0}
+  ]
+}

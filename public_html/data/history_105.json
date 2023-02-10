@@ -1,0 +1,11 @@
+{ "now" : 1670778029.2,
+  "messages" : 284789,
+  "aircraft" : [
+    {"hex":"06a0b8","alt_baro":25400,"alt_geom":24075,"gs":376.5,"ias":280,"tas":404,"mach":0.676,"track":308.4,"track_rate":0.03,"roll":0.4,"mag_heading":305.0,"baro_rate":-1408,"geom_rate":-1344,"version":0,"nac_v":1,"mlat":[],"tisb":[],"messages":31,"seen":4.8,"rssi":-8.0},
+    {"hex":"3c666b","flight":"DLH1HH  ","alt_baro":30800,"alt_geom":29425,"gs":508.6,"ias":294,"tas":466,"mach":0.788,"track":133.5,"track_rate":0.00,"roll":0.0,"mag_heading":134.6,"baro_rate":832,"geom_rate":960,"squawk":"1000","category":"A3","nav_qnh":1012.8,"nav_altitude_mcp":35008,"lat":48.671482,"lon":10.670616,"nic":8,"rc":186,"seen_pos":0.7,"version":2,"nic_baro":1,"nac_p":9,"nac_v":1,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":3090,"seen":0.1,"rssi":-1.9},
+    {"hex":"461f38","alt_baro":32000,"version":0,"sil_type":"unknown","mlat":[],"tisb":[],"messages":206,"seen":36.0,"rssi":-9.3},
+    {"hex":"8990eb","alt_baro":31000,"category":"A5","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":3539,"seen":17.8,"rssi":-10.0},
+    {"hex":"3c5eee","alt_baro":28350,"squawk":"5324","category":"A3","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":604,"seen":46.7,"rssi":-9.2},
+    {"hex":"502d28","category":"A3","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":1154,"seen":163.2,"rssi":-9.6}
+  ]
+}

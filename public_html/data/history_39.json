@@ -1,0 +1,8 @@
+{ "now" : 1670785771.7,
+  "messages" : 30688,
+  "aircraft" : [
+    {"hex":"3c70c2","flight":"GEC8472 ","alt_baro":28625,"alt_geom":27175,"gs":521.7,"ias":321,"mach":0.816,"track":137.6,"mag_heading":138.0,"baro_rate":1408,"geom_rate":1408,"squawk":"6436","emergency":"none","nav_qnh":1012.8,"nav_altitude_mcp":31008,"nav_heading":134.3,"lat":48.982819,"lon":10.203764,"nic":8,"rc":186,"seen_pos":1.0,"version":0,"nic_baro":1,"nac_p":9,"nac_v":1,"sil":3,"sil_type":"unknown","mlat":[],"tisb":[],"messages":116,"seen":0.2,"rssi":-6.0},
+    {"hex":"46b8a3","flight":"AEE6BR  ","alt_baro":37000,"alt_geom":35850,"gs":496.8,"track":131.2,"baro_rate":0,"category":"A3","lat":48.528660,"lon":10.234487,"nic":8,"rc":186,"seen_pos":9.6,"version":2,"nic_baro":1,"nac_p":9,"nac_v":1,"sil":3,"sil_type":"perhour","gva":2,"sda":3,"mlat":[],"tisb":[],"messages":53,"seen":8.1,"rssi":-8.3},
+    {"hex":"39e681","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":23,"seen":289.6,"rssi":-8.6}
+  ]
+}

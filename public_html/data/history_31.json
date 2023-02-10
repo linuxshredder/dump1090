@@ -1,0 +1,10 @@
+{ "now" : 1670785531.4,
+  "messages" : 29392,
+  "aircraft" : [
+    {"hex":"39e681","flight":"AFR35MG ","alt_baro":17000,"alt_geom":16150,"gs":282.0,"ias":213,"mach":0.444,"track":98.4,"mag_heading":93.7,"baro_rate":0,"geom_rate":0,"nav_qnh":1013.0,"nav_altitude_mcp":17008,"nav_altitude_fms":13008,"lat":48.600816,"lon":11.016902,"nic":8,"rc":186,"seen_pos":54.2,"version":2,"nic_baro":1,"nac_p":10,"nac_v":1,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":23,"seen":49.3,"rssi":-8.6},
+    {"hex":"4d236b","category":"A3","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":2401,"seen":83.2,"rssi":-10.5},
+    {"hex":"48ae82","category":"A3","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":928,"seen":216.3,"rssi":-9.9},
+    {"hex":"4cac12","category":"A3","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":3191,"seen":228.9,"rssi":-8.1},
+    {"hex":"3c66b5","category":"A3","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":1497,"seen":70.7,"rssi":-9.4}
+  ]
+}

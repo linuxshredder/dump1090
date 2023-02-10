@@ -1,0 +1,11 @@
+{ "now" : 1670785321.2,
+  "messages" : 27939,
+  "aircraft" : [
+    {"hex":"39e681","version":0,"sil_type":"unknown","mlat":[],"tisb":[],"messages":8,"seen":264.7,"rssi":-8.6},
+    {"hex":"4d236b","flight":"RYR5SE  ","alt_baro":37000,"alt_geom":35800,"gs":490.8,"ias":253,"tas":456,"mach":0.780,"track":136.2,"track_rate":0.00,"roll":0.0,"mag_heading":137.8,"baro_rate":64,"geom_rate":0,"squawk":"5236","emergency":"none","category":"A3","nav_qnh":1013.6,"nav_altitude_mcp":36992,"nav_altitude_fms":37008,"nav_heading":137.1,"lat":48.856062,"lon":10.944262,"nic":8,"rc":186,"seen_pos":20.4,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":2073,"seen":0.2,"rssi":-9.0},
+    {"hex":"48ae82","alt_baro":29575,"alt_geom":28175,"gs":428.7,"ias":297,"mach":0.776,"track":223.3,"mag_heading":227.8,"baro_rate":-1536,"geom_rate":-1568,"category":"A3","nav_qnh":1013.2,"nav_altitude_mcp":25008,"version":2,"nac_v":1,"sil_type":"perhour","mlat":[],"tisb":[],"messages":928,"seen":6.0,"rssi":-9.9},
+    {"hex":"4cac12","flight":"KZR922  ","alt_baro":26575,"alt_geom":25275,"gs":500.9,"ias":316,"tas":458,"mach":0.772,"track":110.6,"track_rate":0.00,"roll":-0.2,"mag_heading":107.6,"baro_rate":448,"geom_rate":480,"squawk":"7650","emergency":"none","category":"A3","nav_qnh":1013.6,"nav_altitude_mcp":30016,"nav_heading":0.0,"lat":48.668270,"lon":11.203091,"nic":8,"rc":186,"seen_pos":24.7,"version":2,"nic_baro":1,"nac_p":9,"nac_v":1,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":3191,"seen":18.7,"rssi":-8.1},
+    {"hex":"3c66b5","alt_baro":20000,"squawk":"1000","category":"A3","lat":49.273819,"lon":10.361164,"nic":8,"rc":186,"seen_pos":16.7,"version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":1494,"seen":15.6,"rssi":-8.0},
+    {"hex":"4bb1c6","category":"A5","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":3955,"seen":257.7,"rssi":-9.3}
+  ]
+}

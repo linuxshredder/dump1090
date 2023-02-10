@@ -1,0 +1,9 @@
+{ "now" : 1670784750.4,
+  "messages" : 3713,
+  "aircraft" : [
+    {"hex":"4bb1c6","flight":"THY4KS  ","alt_baro":26825,"alt_geom":25450,"gs":464.3,"ias":296,"tas":432,"mach":0.732,"track":137.6,"track_rate":0.06,"roll":-0.5,"mag_heading":137.1,"baro_rate":1088,"geom_rate":1088,"squawk":"4376","emergency":"none","category":"A5","nav_qnh":1012.8,"nav_altitude_mcp":28992,"lat":48.955170,"lon":10.241300,"nic":8,"rc":186,"seen_pos":0.8,"version":2,"nic_baro":1,"nac_p":9,"nac_v":1,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":370,"seen":0.1,"rssi":-3.7},
+    {"hex":"4b111d","alt_baro":7000,"version":0,"sil_type":"unknown","mlat":[],"tisb":[],"messages":16,"seen":7.2,"rssi":-9.6},
+    {"hex":"4bb1e5","flight":"THY40E  ","alt_baro":39000,"alt_geom":37900,"gs":507.1,"ias":249,"tas":470,"mach":0.804,"track":122.8,"track_rate":-0.03,"roll":-0.2,"mag_heading":121.5,"baro_rate":0,"geom_rate":0,"squawk":"6430","emergency":"none","category":"A5","nav_qnh":1012.8,"nav_altitude_mcp":39008,"lat":48.860550,"lon":11.030062,"nic":8,"rc":186,"seen_pos":0.7,"version":2,"nic_baro":1,"nac_p":9,"nac_v":1,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":1343,"seen":0.1,"rssi":-5.0},
+    {"hex":"471faa","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":220,"seen":71.7,"rssi":-10.3}
+  ]
+}

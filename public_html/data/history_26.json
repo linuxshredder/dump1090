@@ -1,0 +1,9 @@
+{ "now" : 1670785381.2,
+  "messages" : 28639,
+  "aircraft" : [
+    {"hex":"4d236b","flight":"RYR5SE  ","alt_baro":37000,"alt_geom":35800,"gs":490.2,"ias":253,"tas":456,"mach":0.780,"track":136.4,"track_rate":0.00,"roll":0.0,"mag_heading":138.2,"baro_rate":0,"geom_rate":32,"squawk":"5236","emergency":"none","category":"A3","nav_qnh":1013.6,"nav_altitude_mcp":36992,"nav_altitude_fms":37008,"nav_heading":137.1,"lat":48.762543,"lon":11.079782,"nic":8,"rc":186,"seen_pos":23.3,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":2356,"seen":0.3,"rssi":-9.6},
+    {"hex":"48ae82","category":"A3","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":928,"seen":66.1,"rssi":-9.9},
+    {"hex":"4cac12","category":"A3","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":3191,"seen":78.7,"rssi":-8.1},
+    {"hex":"3c66b5","alt_baro":35900,"category":"A3","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":1496,"seen":13.0,"rssi":-9.0}
+  ]
+}
