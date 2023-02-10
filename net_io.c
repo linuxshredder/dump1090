@@ -1367,7 +1367,7 @@ static int handleHTTPRequest(struct client *c, char *p) {
         char getFile[1024];
 
         if (strlen(url) < 2) {
-            snprintf(getFile, sizeof getFile, "%s/gmap.html", Modes.html_dir); // Default file
+            snprintf(getFile, sizeof getFile, "%s/index.html", Modes.html_dir); // Default file
         } else {
             snprintf(getFile, sizeof getFile, "%s/%s", Modes.html_dir, url);
         }
