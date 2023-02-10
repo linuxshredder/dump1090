@@ -1290,7 +1290,28 @@ static struct {
     { "/data/history_", generateHistoryJson, MODES_CONTENT_TYPE_JSON, 1 },
     { NULL, NULL, NULL, 0 }
 };
-
+// resume write when interupted
+    ssize_t safe_write (int fd, const void * buf, size_t len)
+     {
+       size_t n = len;
+     while (0 < n)
+       {
+           ssize_t result = write(fd, buf, n);
+               if (result != -1)
+                   {
+                           n -= result;
+                                   buf += result;
+                                       }
+                                           else
+                                               {
+                                                     if (( (errno != EINTR)) && (errno != EWOULDBLOCK) && (errno != EAGAIN))
+                                                           {
+                                                                   return(-1); // error but not interupted!
+                                                                         }
+                                                                             }
+                                                                               } 
+                                                                                 return len;
+                                                                                 }
 //
 // Get an HTTP request header and write the response to the client.
 // gain here we assume that the socket buffer is enough without doing
@@ -1367,7 +1388,7 @@ static int handleHTTPRequest(struct client *c, char *p) {
         char getFile[1024];
 
         if (strlen(url) < 2) {
-            snprintf(getFile, sizeof getFile, "%s/index.html", Modes.html_dir); // Default file
+            snprintf(getFile, sizeof getFile, "%s/gmap.html", Modes.html_dir); // Default file
         } else {
             snprintf(getFile, sizeof getFile, "%s/%s", Modes.html_dir, url);
         }
@@ -1446,8 +1467,10 @@ static int handleHTTPRequest(struct client *c, char *p) {
 
     // Send header and content.
 #ifndef _WIN32
-    if ( (write(c->fd, hdr, hdrlen) != hdrlen) 
-      || (write(c->fd, content, clen) != clen) ) {
+//    if ( (write(c->fd, hdr, hdrlen) != hdrlen) 
+//      || (write(c->fd, content, clen) != clen) ) {
+    if ( (safe_write(c->fd, hdr, hdrlen) != hdrlen) 
+      || (safe_write(c->fd, content, clen) != clen) ) {
 #else
     if ( (send(c->fd, hdr, hdrlen, 0) != hdrlen) 
       || (send(c->fd, content, clen, 0) != clen) ) {
